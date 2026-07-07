@@ -1,4 +1,4 @@
-# SigmaGPT
+# SigmoidGPT
 
 A full-stack ChatGPT replica built from scratch using the MERN stack and OpenAI's API. Supports multi-thread conversations, persistent chat history, markdown rendering with code syntax highlighting, and a smooth word-by-word typing animation — all wrapped in a clean dark-mode UI.
 
